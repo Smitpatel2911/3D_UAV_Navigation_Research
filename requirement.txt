@@ -1,0 +1,11 @@
+# Data manipulation and reading the CSV
+pandas>=2.0.0
+
+# Core plotting library for IEEE standard graphs
+matplotlib>=3.7.0
+
+# Advanced styling to make the charts look publication-ready
+seaborn>=0.12.0
+
+# Run Command : pip install -r requirements.txt
+# To execute simulation : python main.py
