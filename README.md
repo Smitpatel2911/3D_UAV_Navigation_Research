@@ -46,7 +46,7 @@ It directly compares the **A* (A-star) algorithm** (using a 3D Euclidean heurist
 **1. Clone the repository**
 
 ```Bash
-git clone [https://github.com/Smitpatel2911/3D-UAV-Pathfinding.git](https://github.com/yourusername/3D-UAV-Pathfinding.git)
+git clone [[https://github.com/Smitpatel2911/3D-UAV-Pathfinding.git]]
 cd 3D-UAV-Pathfinding
 ```
 
